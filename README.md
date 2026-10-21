@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Alia Syafiah
+
+### About Me
+I'm a Graphic and Multimedia Software student at University Technology Malaysia. I'm currently studying while building my portfolio.
 
 <!--
 **AliaSyafiah/AliaSyafiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
